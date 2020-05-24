@@ -1,0 +1,6 @@
+﻿Ženklas1 1914 0,75
+Ženklas2 1984 1,5
+Ženklas3 1944 1,25
+Ženklas4 1936 0,45
+Ženklas5 1981 0,98
+Ženklas6 1918 0,75

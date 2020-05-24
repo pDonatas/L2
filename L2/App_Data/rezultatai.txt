@@ -1,0 +1,47 @@
+Pradiniai duomenys:
+------------------------------------------------------------------------------------------
+Įvestas ženklas: Ženklas2
+------------------------------------------------------------------------------------------
+Aukciono pašto ženklai: 
+------------------------------------------------------------------------------------------
+Pavadinimas          Metai                Kaina               
+Ženklas1             1914                 0,75                
+Ženklas2             1984                 1,5                 
+Ženklas3             1944                 1,25                
+Ženklas4             1936                 0,45                
+Ženklas5             1981                 0,98                
+Ženklas6             1918                 0,75                
+------------------------------------------------------------------------------------------
+Dalyvių sąrašas: 
+------------------------------------------------------------------------------------------
+Pavardė              Vardas               Ženklas              Kiekis               Kaina               
+Ieviauskaitė         Ieva                 Ženklas1             1                    0,01                
+Kenčiauskas          Arnas                Ženklas1             1                    3,68                
+Rūkauskas            Rytis                Ženklas6             2                    2,75                
+Alkauskas            Algis                Ženklas1             4                    1,58                
+Kreiviauskas         Lukas                Ženklas5             4                    0,48                
+Kiečiauskas          Laurynas             Ženklas6             4                    18,5                
+Antanauskas          Antanas              Ženklas5             3                    0,75                
+Rukauskas            Rolandas             Ženklas4             4                    1,75                
+Čenkiauskas          Česlovas             Ženklas3             4                    0,75                
+Kalinauskas          Mantas               Ženklas1             4                    0,5                 
+Černiauskas          Karolis              Ženklas2             4                    1,5                 
+Arkauskas            Arnas                Ženklas1             4                    1,5                 
+Rezultatai:
+------------------------------------------------------------------------------------------
+Neturinčių reikiamo ženklo sąrašas: 
+------------------------------------------------------------------------------------------
+Pavardė              Vardas               Ženklas              Kiekis               Kaina               
+Černiauskas          Karolis              Ženklas2             4                    1,5                 
+Čenkiauskas          Česlovas             Ženklas3             4                    0,75                
+Rukauskas            Rolandas             Ženklas4             4                    1,75                
+Kreiviauskas         Lukas                Ženklas5             4                    0,48                
+Antanauskas          Antanas              Ženklas5             3                    0,75                
+Rūkauskas            Rytis                Ženklas6             2                    2,75                
+Kiečiauskas          Laurynas             Ženklas6             4                    18,5                
+------------------------------------------------------------------------------------------
+Tinkamų dalyvių sąrašas: 
+------------------------------------------------------------------------------------------
+Pavardė              Vardas               Ženklas              Kiekis               Kaina               
+Černiauskas          Karolis              Ženklas2             4                    1,5                 
+------------------------------------------------------------------------------------------
